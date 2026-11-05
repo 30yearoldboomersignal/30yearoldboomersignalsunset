@@ -1,0 +1,10 @@
+{
+  "private_signal": "FLEE",
+  "private_signal_issued_at_datetime": "2026-11-05T23:14:42.704396Z",
+  "private_signal_delay_hours": 0,
+  "model": {
+    "model_filename": "model_v526_20260622_013439.csv",
+    "model_creation_date": "2026-06-21",
+    "model_hash": "2921f4ae9c170f2bbbb395eb8551f05bbd8d7b3c71ff58d0a251237cf34e943e"
+  }
+}
